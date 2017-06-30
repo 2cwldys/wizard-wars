@@ -6,7 +6,9 @@
 
 ## About
 This git repository contains the original source code of the Goldsrc Half-Life Modification known as Wizard Wars.
+
 Latest code archived version is 1.2.9
+
 Latest public beta version is 1.3.0
 
 Mod download is included.
