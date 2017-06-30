@@ -1,8 +1,8 @@
 # Wizard Wars
 
 ![Image](https://github.com/2cwldys/wizard-wars/blob/master/git-images/ww_header.jpg)
-[![Wizard Wars Video](https://img.youtube.com/vi/p4kqHXLY6W4/0.jpg)](https://www.youtube.com/watch?v=p4kqHXLY6W4)
-# Youtube Video
+![Image](https://github.com/2cwldys/wizard-wars/blob/master/git-images/wizardwars.jpg)
+
 
 ## About
 This git repository contains the original source code of the Goldsrc Half-Life Modification known as Wizard Wars.
