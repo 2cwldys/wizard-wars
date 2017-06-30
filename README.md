@@ -9,3 +9,4 @@ This git repository contains the original source code of the Goldsrc Half-Life M
 Last archived version is 1.2.9
 
 Mod download is included.
+Code was obtained and archived thanks to Thothie @ http://www.thothie.com/ww/
