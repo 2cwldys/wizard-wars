@@ -12,4 +12,7 @@ Latest code archived version is 1.2.9
 Latest public beta version is 1.3.0
 
 Mod download is included.
+
 Code was obtained and archived thanks to Thothie @ http://www.thothie.com/ww/
+
+Moddb link is @ http://www.moddb.com/mods/wizard-wars
