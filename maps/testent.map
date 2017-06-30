@@ -1,0 +1,214 @@
+{
+"classname" "worldspawn"
+"classname" "worldspawn"
+"sounds" "1"
+"MaxRange" "4096"
+"mapversion" "220"
+"wad" "\sierra\half-life\valve\halflife.wad;\wads\dewood.wad;\wads\floorplates.wad;\wads\graphtallica6.wad;\wads\graphtallica7.wad;\wads\graphtallica8.wad;\wads\liquids.wad;\wads\muadtexpack1.wad;\wads\paintings.wad;\wads\texpack1.wad;\wads\texpack2.wad;\wads\texpack3.wad;\wads\texpack4.wad;\wads\texpack5.wad;\wads\texpack9.wad;\wads\tfc.wad;\wads\tfc2.wad;\wads\wwwad.wad;\wads\xeno.wad;\wads\wwbftex.wad;\wads\sanfroid.wad;\sierra\half-life\valve\wwsptown.wad;\wads\ed_terrain.wad;\wads\tev.wad;\wads\firearms.wad;\wads\altnames.wad;\wads\sock-tp-medieval.wad;\wads\desnow.wad;\wads\volcwad.wad;\sierra\half-life\valve\decals.wad;\wads\wizardrats.wad;\wads\drakir.wad;\wads\six_drakir.wad"
+{
+( -144 -80 208 ) ( -144 272 208 ) ( 272 272 208 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -144 272 192 ) ( -144 272 208 ) ( -144 -80 208 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 272 -80 192 ) ( 272 -80 208 ) ( 272 272 208 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 272 272 192 ) ( 272 272 208 ) ( -144 272 208 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 -80 192 ) ( -144 -80 208 ) ( 272 -80 208 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 272 192 ) ( -144 -80 192 ) ( 272 -80 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+}
+{
+( -144 272 -16 ) ( -144 -80 -16 ) ( 272 -80 -16 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -144 -80 0 ) ( -144 -80 -16 ) ( -144 272 -16 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 272 272 0 ) ( 272 272 -16 ) ( 272 -80 -16 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 272 0 ) ( -144 272 -16 ) ( 272 272 -16 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 272 -80 0 ) ( 272 -80 -16 ) ( -144 -80 -16 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 -80 0 ) ( -144 272 0 ) ( 272 272 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+}
+{
+( -144 -80 192 ) ( -144 -80 0 ) ( -144 272 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 272 192 ) ( -144 272 0 ) ( -128 272 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -128 -80 0 ) ( -144 -80 0 ) ( -144 -80 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -144 -80 192 ) ( -144 272 192 ) ( -128 272 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -144 272 0 ) ( -144 -80 0 ) ( -128 -80 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 272 192 ) ( -128 272 0 ) ( -128 -80 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 272 272 192 ) ( 272 272 0 ) ( 272 -80 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 272 0 ) ( 272 272 0 ) ( 272 272 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 272 -80 192 ) ( 272 -80 0 ) ( 256 -80 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 272 192 ) ( 272 272 192 ) ( 272 -80 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 256 -80 0 ) ( 272 -80 0 ) ( 272 272 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 256 -80 192 ) ( 256 -80 0 ) ( 256 272 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -128 272 0 ) ( 256 272 0 ) ( 256 272 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -128 256 192 ) ( -128 272 192 ) ( 256 272 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 256 272 0 ) ( -128 272 0 ) ( -128 256 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 256 0 ) ( -128 272 0 ) ( -128 272 192 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 272 192 ) ( 256 272 0 ) ( 256 256 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 256 0 ) ( -128 256 0 ) ( -128 256 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 256 -80 0 ) ( -128 -80 0 ) ( -128 -80 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 -80 192 ) ( -128 -80 192 ) ( -128 -64 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 -64 0 ) ( -128 -80 0 ) ( 256 -80 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 -80 192 ) ( -128 -80 0 ) ( -128 -64 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 -64 0 ) ( 256 -80 0 ) ( 256 -80 192 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -128 -64 0 ) ( 256 -64 0 ) ( 256 -64 192 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -128 256 1 ) ( -64 256 1 ) ( -64 192 1 ) C3A2_TELEPAD [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 192 0 ) ( -64 192 0 ) ( -64 256 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 256 1 ) ( -128 192 1 ) ( -128 192 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -64 256 0 ) ( -64 192 0 ) ( -64 192 1 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -64 256 1 ) ( -128 256 1 ) ( -128 256 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -64 192 0 ) ( -128 192 0 ) ( -128 192 1 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( -128 0 1 ) ( -64 0 1 ) ( -64 -64 1 ) C3A2_TELEPAD [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 -64 0 ) ( -64 -64 0 ) ( -64 0 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( -128 0 1 ) ( -128 -64 1 ) ( -128 -64 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -64 0 0 ) ( -64 -64 0 ) ( -64 -64 1 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -64 0 1 ) ( -128 0 1 ) ( -128 0 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( -64 -64 0 ) ( -128 -64 0 ) ( -128 -64 1 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 192 0 1 ) ( 256 0 1 ) ( 256 -64 1 ) C3A2_TELEPAD [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 192 -64 0 ) ( 256 -64 0 ) ( 256 0 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 192 0 1 ) ( 192 -64 1 ) ( 192 -64 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 0 0 ) ( 256 -64 0 ) ( 256 -64 1 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 0 1 ) ( 192 0 1 ) ( 192 0 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 -64 0 ) ( 192 -64 0 ) ( 192 -64 1 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+{
+( 192 256 1 ) ( 256 256 1 ) ( 256 192 1 ) C3A2_TELEPAD [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 192 192 0 ) ( 256 192 0 ) ( 256 256 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1 
+( 192 256 1 ) ( 192 192 1 ) ( 192 192 0 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 256 0 ) ( 256 192 0 ) ( 256 192 1 ) FIFTIES_WALL14A [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 256 1 ) ( 192 256 1 ) ( 192 256 0 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+( 256 192 0 ) ( 192 192 0 ) ( 192 192 1 ) FIFTIES_WALL14A [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1 
+}
+}
+{
+"classname" "info_tfgoal"
+"goal_state" "2"
+"angles" "0 0 0"
+"group_no" "1"
+"wait" "-1"
+"all_active" "1"
+"last_impulse" "5"
+"activate_goal_no" "4"
+"b_b" "Goal 1 Activated"
+"g_a" "1"
+"g_e" "1"
+"origin" "221 223 12"
+}
+{
+"classname" "info_tfgoal"
+"goal_state" "2"
+"angles" "0 0 0"
+"group_no" "1"
+"wait" "-1"
+"all_active" "1"
+"last_impulse" "5"
+"activate_goal_no" "4"
+"increase_team1" "5"
+"b_b" "Goal 2 Activated"
+"display_item_status1" "0"
+"display_item_status2" "0"
+"display_item_status3" "0"
+"display_item_status4" "0"
+"g_a" "1"
+"g_e" "1"
+"origin" "223 -29 12"
+}
+{
+"classname" "info_tfgoal"
+"goal_state" "2"
+"angles" "0 0 0"
+"group_no" "1"
+"wait" "-1"
+"all_active" "1"
+"last_impulse" "5"
+"activate_goal_no" "4"
+"b_b" "Goal 3 Activated"
+"display_item_status1" "0"
+"display_item_status2" "0"
+"display_item_status3" "0"
+"display_item_status4" "0"
+"g_a" "1"
+"g_e" "1"
+"origin" "-94 -34 12"
+}
+{
+"classname" "info_tfgoal"
+"goal_state" "2"
+"angles" "0 0 0"
+"group_no" "1"
+"wait" "-1"
+"activate_goal_no" "4"
+"b_b" "Goal 4 Activated"
+"display_item_status1" "0"
+"display_item_status2" "0"
+"display_item_status3" "0"
+"display_item_status4" "0"
+"g_a" "1"
+"g_e" "1"
+"all_active" "1"
+"last_impulse" "5"
+"origin" "-96 223 12"
+}
+{
+"classname" "info_tfgoal"
+"goal_state" "2"
+"angles" "0 0 0"
+"goal_no" "5"
+"g_e" "9"
+"goal_result" "32"
+"increase_team1" "55"
+"t_length" "50000"
+"origin" "55 112 24"
+}
+{
+"classname" "info_tfdetect"
+"number_of_teams" "2"
+"origin" "60 188 24"
+}
+{
+"classname" "info_player_start"
+"origin" "72 104 128"
+}
+{
+"classname" "light"
+"_light" "255 255 128 200"
+"origin" "64 88 160"
+}
+{
+"classname" "info_player_teamspawn"
+"angles" "0 0 0"
+"g_a" "3"
+"team_no" "2"
+"origin" "-20 40 72"
+}
+{
+"classname" "info_player_teamspawn"
+"angles" "0 0 0"
+"g_a" "3"
+"team_no" "1"
+"origin" "-24 148 68"
+}
+{
+"classname" "info_player_teamspawn"
+"angles" "0 0 0"
+"g_a" "3"
+"team_no" "2"
+"origin" "132 24 52"
+}
+{
+"classname" "info_player_teamspawn"
+"angles" "0 0 0"
+"g_a" "3"
+"team_no" "1"
+"origin" "128 160 56"
+}
+{
+"classname" "info_wwdetect"
+"origin" "128 0 128"
+}
