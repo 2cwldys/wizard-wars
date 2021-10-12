@@ -11,7 +11,9 @@ Latest code archived version is 1.2.9
 
 Latest public beta version is 1.3.0
 
-Mod download is included.
+Includes version 1.0.5 full
+
+Mod download as well as games soundtrack is included.
 
 Code was obtained and archived thanks to Thothie @ http://www.thothie.com/ww/
 
